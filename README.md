@@ -136,12 +136,16 @@ My recent work covers the full path from model experimentation to deployable, re
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhthanh1106&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0b1b2b&title_color=5cc8ff&text_color=d8f3ff&icon_color=73e2a7" alt="Nguyen Huu Thanh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhthanh1106&layout=compact&hide_border=true&bg_color=0b1b2b&title_color=5cc8ff&text_color=d8f3ff" alt="Most Used Languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhthanh1106&theme=github_dark" alt="Nguyen Huu Thanh's GitHub contribution summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nhthanh1106&theme=github-dark-blue&hide_border=true&background=0B1B2B&ring=5CC8FF&fire=73E2A7&currStreakLabel=5CC8FF&currStreakNum=FEFEFE&sideNums=5CC8FF&sideLabels=A8C2D1&dates=58768A" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhthanh1106&theme=github_dark" alt="GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhthanh1106&theme=github_dark" alt="Most used languages by commit" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=nhthanh1106&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
